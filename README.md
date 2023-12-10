@@ -3,8 +3,8 @@
 ## Indice
 1. [Introducción](#introducción)
 2. [Compilar el proyecto](#compilar-el-proyecto)
-2.1 [CMAKE](#cmake)
-2.1 [Alternativa](#alternativa)
+    2.1 [CMAKE](#cmake)
+    2.1 [Alternativa](#alternativa)
 3. [TODO](#todo)
 
 ## Introducción
